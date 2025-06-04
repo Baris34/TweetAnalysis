@@ -1,6 +1,6 @@
 # TweetAnalysis
 
-# Swipeline AI Studio - AI Tweet Analiz Otomatı (Mini App)
+# Swipeline AI Studio - AI Tweet Analiz Uygulaması (Mini App)
 
 Bu proje, Swipeline AI Studio için geliştirilmiş bir Developer Intern Teknik Görevidir. Kullanıcı tarafından sağlanan bir Tweet URL'si (şimdilik mock data ile temsil edilmektedir) alınır, içeriği mock olarak oluşturulur ve bu içerik Google Gemini API kullanılarak analiz edilir. Analiz sonuçları (özet, duygu) ve mock tweet özellikleri bir Airtable tablosuna kaydedilir.
 
